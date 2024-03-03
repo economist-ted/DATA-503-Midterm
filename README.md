@@ -1,0 +1,1 @@
+Feel free to do all the things I did in my YouTube video for this midterm (https://youtu.be/PcGV6tsTxY0?si=X-HQ3nR-5hEcjiCR). Everything you need is in this repo. Open the SQL file in your favorite text editor that runs PostgreSQL and fire away!
